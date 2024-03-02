@@ -1,5 +1,5 @@
 {
-  "name": "simple-example-random",
+  "name": "noderandom_h",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VSea/simple-example-random.git"
+    "url": "git+https://github.com/VSea/noderandom_h.git"
       },
   "keywords": [],
-  "author": "",
+  "author": "VSea",
   "license": "ISC"
 }
